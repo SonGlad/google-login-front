@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/google-login-front/static/css/main.7cda0caf.css",
+    "main.js": "/google-login-front/static/js/main.a10cf842.js",
+    "index.html": "/google-login-front/index.html",
+    "main.7cda0caf.css.map": "/google-login-front/static/css/main.7cda0caf.css.map",
+    "main.a10cf842.js.map": "/google-login-front/static/js/main.a10cf842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cda0caf.css",
+    "static/js/main.a10cf842.js"
+  ]
+}
