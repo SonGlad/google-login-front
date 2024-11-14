@@ -1,13 +1,33 @@
 {
   "files": {
-    "main.css": "/google-login-front/static/css/main.7cda0caf.css",
-    "main.js": "/google-login-front/static/js/main.a10cf842.js",
+    "main.css": "/google-login-front/static/css/main.faa85ff7.css",
+    "main.js": "/google-login-front/static/js/main.2a93481c.js",
+    "static/js/181.3905c7dc.chunk.js": "/google-login-front/static/js/181.3905c7dc.chunk.js",
+    "static/js/63.3e912277.chunk.js": "/google-login-front/static/js/63.3e912277.chunk.js",
+    "static/js/253.622d224d.chunk.js": "/google-login-front/static/js/253.622d224d.chunk.js",
+    "static/js/306.999ab086.chunk.js": "/google-login-front/static/js/306.999ab086.chunk.js",
+    "static/media/logo.png": "/google-login-front/static/media/logo.131272d95d0b2cdca194.png",
+    "static/media/welcome.jpg": "/google-login-front/static/media/welcome.57600995f5f383d4bc1f.jpg",
+    "static/media/register.jpg": "/google-login-front/static/media/register.4099ca13b48692a448bf.jpg",
+    "static/media/login.jpg": "/google-login-front/static/media/login.be6cad9a16bee7730635.jpg",
+    "static/media/Google__G__logo.svg.png": "/google-login-front/static/media/Google__G__logo.svg.92518b229a3933abdbde.png",
     "index.html": "/google-login-front/index.html",
-    "main.7cda0caf.css.map": "/google-login-front/static/css/main.7cda0caf.css.map",
-    "main.a10cf842.js.map": "/google-login-front/static/js/main.a10cf842.js.map"
+    "static/media/setting-2.svg": "/google-login-front/static/media/setting-2.fcb7be46dc70ad25f95b1d594eb1679e.svg",
+    "static/media/eye-off.svg": "/google-login-front/static/media/eye-off.7632c81a03355c13eedd1d6fa36ddc91.svg",
+    "static/media/error.svg": "/google-login-front/static/media/error.1ab54f6659bb9cc02881f20e49af7e39.svg",
+    "static/media/eye.svg": "/google-login-front/static/media/eye.6b00c3608d2b95883cbcd085afe1b291.svg",
+    "static/media/logout.svg": "/google-login-front/static/media/logout.47d6d0dc6aaf1e004df43c1b52b80148.svg",
+    "static/media/correct.svg": "/google-login-front/static/media/correct.b5b7505624f3a38a8b7994508d630e79.svg",
+    "static/media/arrow-down.svg": "/google-login-front/static/media/arrow-down.e3ed7849216bb46de413bbb56a4a7bcf.svg",
+    "main.faa85ff7.css.map": "/google-login-front/static/css/main.faa85ff7.css.map",
+    "main.2a93481c.js.map": "/google-login-front/static/js/main.2a93481c.js.map",
+    "181.3905c7dc.chunk.js.map": "/google-login-front/static/js/181.3905c7dc.chunk.js.map",
+    "63.3e912277.chunk.js.map": "/google-login-front/static/js/63.3e912277.chunk.js.map",
+    "253.622d224d.chunk.js.map": "/google-login-front/static/js/253.622d224d.chunk.js.map",
+    "306.999ab086.chunk.js.map": "/google-login-front/static/js/306.999ab086.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cda0caf.css",
-    "static/js/main.a10cf842.js"
+    "static/css/main.faa85ff7.css",
+    "static/js/main.2a93481c.js"
   ]
 }
