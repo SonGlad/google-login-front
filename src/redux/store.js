@@ -1,9 +1,10 @@
 import { combineReducers, configureStore } from '@reduxjs/toolkit';
-// import { authReducer } from './Auth/auth-slice';
-// import { dataReducer } from './Data/data-slice';
+import { authReducer } from './Auth/auth-slice';
+
+
 import { 
   persistStore, 
-//   persistReducer, 
+  persistReducer, 
   FLUSH, 
   REHYDRATE, 
   PAUSE, 
@@ -11,25 +12,22 @@ import {
   PURGE, 
   REGISTER 
 } from 'redux-persist';
-// import storage from 'redux-persist/lib/storage';
+import storage from 'redux-persist/lib/storage';
 
 
-// const authPersistConfig = {
-//   key: "auth",
-//   storage,
-//   whitelist: [],
-// };
+const authPersistConfig = {
+  key: "auth",
+  storage,
+  whitelist: [
+    'token',
+    'currentLocation', 
+  ],
+};
 
 
-// const dataPersistConfig = {
-//   key: 'data',
-//   storage,
-//   whitelist: [],
-// };
 
 const rootReducer = combineReducers({
-//   auth: persistReducer(authPersistConfig, authReducer),
-//   data: persistReducer(dataPersistConfig, dataReducer),
+  auth: persistReducer(authPersistConfig, authReducer),
 })
 
 
